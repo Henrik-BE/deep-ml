@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:32:30.354Z",
+  "generated_at": "2026-11-23T09:30:54.296Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -13,6 +13,61 @@
       "last_pushed_at": "2026-11-22T11:32:26.135Z",
       "language": "python",
       "lines": 7
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-11-07T20:03:48.159Z",
+      "last_pushed_at": "2026-11-07T20:03:48.159Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-11-07T20:07:15.813Z",
+      "last_pushed_at": "2026-11-07T20:07:15.813Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-11-07T20:08:04.745Z",
+      "last_pushed_at": "2026-11-07T20:08:04.745Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-11-07T20:11:36.184Z",
+      "last_pushed_at": "2026-11-07T20:11:36.184Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-11-07T20:12:30.559Z",
+      "last_pushed_at": "2026-11-07T20:12:30.559Z"
     }
   }
 }
