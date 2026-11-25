@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 1 problems · 0 labs · 5 math
+**7** solved · 2 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-22 | [solution](problems/0014-linear-regression-using-normal-equation) |
+| [Implement Hierarchical Clustering (Agglomerative)](https://www.deep-ml.com/problems/364) | medium | 2026-11-25 | [solution](problems/0364-implement-hierarchical-clustering-agglomerative) |
 
 ## Math
 
